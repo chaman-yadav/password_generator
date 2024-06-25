@@ -12,7 +12,7 @@ Open the [Password Generator](https://password-generator777.netlify.app/) in you
 
 - **Password Length Slider**: Adjust the length of the password using a slider.
 - **Character Options**: Select which types of characters to include (uppercase, lowercase, numbers, symbols).
-- **Password Display**: Shows the generated password with the ability to copy to clipboard.
+- **Password Display**: Shows the generated password with the ability to copy it to the clipboard.
 - **Strength Indicator**: Visual feedback on password strength based on selected criteria.
 - **Responsive Design**: Designed to work well on various screen sizes.
 
